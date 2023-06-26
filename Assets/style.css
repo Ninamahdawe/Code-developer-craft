@@ -208,10 +208,18 @@ transform: translateX(279px);
 /* This Style is the footer style of the end of the website */
 
 
-.footer p{
-font:bold ;
-
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
+
+.footer h6 {
+    font-size: 20px;
+    color: #8a2be2;
+}
+
 @media screen and (max-width: 720px){
     nav ul {
         display: flex;
