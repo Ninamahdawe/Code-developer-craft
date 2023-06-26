@@ -5,14 +5,14 @@
 }
 /*--- pink background photo of the website/*/
 body {
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/664/554/460/cute-pink-blur-gradation-wallpaper-thumb.jpg");
     background-size: cover; 
+
  }
     
 
 .main {
     width: 100%;
-    height: 200px;
+    height: 100%;
     position: relative;
     font-family: sans-serif;
 }
