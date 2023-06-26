@@ -6,6 +6,7 @@
 /*--- pink background photo of the website/*/
 body {
     background-size: cover; 
+    background-color: #dfd5cd;
 
  }
     
@@ -33,6 +34,7 @@ body {
     
 }
 
+/*---- Menu section style of the right page/*/
 
 
 ul li {
@@ -221,9 +223,10 @@ transform: translateX(279px);
 }
 
 @media screen and (max-width: 720px){
-    nav ul {
+    .navbar {
         display: flex;
         justify-content: flex-start;
+        width: 100%;
         
 
 
