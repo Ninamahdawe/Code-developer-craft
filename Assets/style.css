@@ -114,7 +114,8 @@ right: 100px;
 position: absolute;
 bottom: 0;
 }
-/*--- First page photo-/*/
+/*--- First page photo-/*/ /*--- /* Styles for the images/elements  on the right side of the website */
+
 .image img{
     position: absolute;
     height: 140%;
@@ -133,6 +134,8 @@ bottom: 0;
     font-size: 100px;
     color: #7fffd4;
 }
+/*Combined all the styles for the  individual about me into article */
+
 .about{
     padding: 40px ;
     color: #01080E;
@@ -183,14 +186,18 @@ color: #7fffd4;
     
 }
 #Personal{
-    transform: translateX(279px);
 
+transform: translateX(279px);
 }
+
+/*--- element logos on the bottom of the webpage */
+
 .logos{
     width: 50px;
   
    
 }
+/*--- contact information email-linkedin-github---- */
 
 .contact{
     display: flex;
