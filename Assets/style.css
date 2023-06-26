@@ -53,8 +53,9 @@ ul li a{
 }
 /*--- transation color when you move your cursor to the menu---/*/
 ul li a:hover{
-    color:  #7fffd4;
+   color:  #7fffd4;
 }
+
 .info{
     margin-left: 10%;
     margin-top: 10px;
@@ -127,27 +128,34 @@ bottom: 0;
 }
 /*--- About me seond page --------*/
 
-.about{
-    padding: 40px ;
-    color: #01080E;
-    font-size: 30px;
-    letter-spacing: 1px;
-    border: 3px solid #8a2be2;
-    border-radius: 5px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    margin: 5%;
-    width: fit-content; 
-    
-}
-.aside .paragraph{
-    
-    
-}
 .about h3{
     font-size: 100px;
     color: #7fffd4;
 }
+.about{
+    padding: 40px ;
+    color: #01080E;
+    font-size: 30px;
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    font-family: sans-serif;
+    margin-bottom: 20px;  
+}
+.projects aside{
+padding: 40px;
+font-size: 100px;
+color: #7fffd4;
+}
+.projects h4{
+    font-size: 50px;
+    color: #8a2be2;
+    display: flex;
+    padding: 40px;
+}
+
+
+
 
 
 
