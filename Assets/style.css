@@ -283,7 +283,8 @@ transform: translateX(279px);
 }
 .projects h4{
     font: 90px;
-    transform: translateX(155px);
+    transform: translateX(155px)translateY(0);
+    text-align: center;
 
 }
 .project-title {
@@ -293,7 +294,39 @@ transform: translateX(279px);
 .project-info{
     flex-direction: column;
 }
+#Personal{
+    text-align: center;
+    transform: translateX(155px)translateY(0);
+    font-size: 50px;
+
 }
+.photo{
+    width: 300px;
+    height: 300px;
+    transform: translateY(20px) translateX(150px);
+
+}
+img.project-2{
+   width: 300px;
+   height: 200px;
+    transform: translateY(250px) translateX(-1px);
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    transform: translateY(300px) translateX(100px);
+
+}
+footer{
+    justify-content: center;
+    align-items: center;   
+    transform: translateY(300px) translateX(100px);
+
+}
+ 
+}
+
 @media screen and (max-width : 480px) {
     
 }
