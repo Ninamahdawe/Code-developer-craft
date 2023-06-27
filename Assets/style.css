@@ -219,11 +219,14 @@ transform: translateX(279px);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/* This Style is the footer style of the end of the website made with love by nina */
 
 .footer h6 {
     font-size: 20px;
     color: #8a2be2;
 }
+
+/* the size of the webpage on mobil/tablet device */
 
 @media screen and (max-width :768px){
     .main {
@@ -326,6 +329,7 @@ footer{
 }
  
 }
+/* mobil size website*/
 
 @media screen and (max-width : 480px) {
     
