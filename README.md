@@ -2,7 +2,7 @@
 
 ## desciption
 
-This portfolio was created for me as a candidate to show case my work to future employers, highlighing my passion, understanding of development, and what inspired me to change my career path. This showcases my creativity with using HTML & CSS to design and bulid a portfolio. This will guide future employers to understand my though process around flexbox, media queries, and CSS variables.
+This portfolio was created for me as a candidate to showcase my work to future employers, highlighing my passion, understanding of development, and what inspired me to change my career path. This showcases my creativity with using HTML & CSS to design and bulid a portfolio. This will guide future employers to understand my though process around flexbox, media queries, and CSS variables.
 
 ## usage
 
