@@ -11,7 +11,7 @@ The usage of this page begins by being able to talk to me by clicking on the let
 
 ![Website screenshot](/images/ninamahdwe.png)
 
-[link to deploy website]: https://ninamahdawe.github.io/Code-developer-craft/
+[link to deploy website](https://ninamahdawe.github.io/Code-developer-craft/)
 
 ## source code
 
