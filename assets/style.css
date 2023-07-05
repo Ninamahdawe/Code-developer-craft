@@ -273,7 +273,7 @@ ul li a:hover {
   .image img {
     width: 300px;
     height: 300px;
-    transform: translateY(-399px) translateX(-209px);
+    transform: translateY(-136px) translateX(-209px);
   }
   .about h3 {
     font-size: 80px;
@@ -309,13 +309,13 @@ ul li a:hover {
   .photo {
     width: 300px;
     height: 300px;
-    transform: translateY(-202px) translateX(150px);
+    transform: translateY(70px) translateX(150px);
   }
   img.project-2 {
     width: 300px;
     height: 400px;
     display: flex;
-    transform: translateY(20px) translateX(348px);
+    transform: translateY(20px) translateX(40px);
   }
   .contact {
     display: flex;
