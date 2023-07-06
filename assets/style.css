@@ -309,13 +309,12 @@ ul li a:hover {
   .photo {
     width: 300px;
     height: 300px;
-    transform: translateY(70px) translateX(150px);
+    transform: translateY(20px) translateX(348px);
   }
   img.project-2 {
     width: 300px;
     height: 400px;
-    display: flex;
-    transform: translateY(20px) translateX(40px);
+    transform: translateY(20px) translateX(300px);
   }
   .contact {
     display: flex;
